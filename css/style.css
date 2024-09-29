@@ -1,0 +1,80 @@
+@import url(
+    'https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Russo+One&display=swap'
+    );
+
+body {
+    background-color: #f4f4f4;
+    font-family: "Roboto", sans-serif;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    color: #B0C4B1;
+    font-family: "Russo One", sans-serif;
+    text-align: center;
+}
+
+#iam {
+    color: #4A5759;
+    font-size: 20px;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+    text-align: center;
+    color: #4A5759;
+    width: 300px;
+    margin: 20px auto;
+}
+
+table {
+    background-color: #F7E1D7;
+    border: 1px solid #4A5759;
+    width: 600px;
+    margin: 20px auto;
+}
+
+td {
+    border: 1px solid #4A5759;
+    text-align: center;
+}
+
+#figma {
+    color: #af66d1;
+}
+
+#html {
+    color: #7bd166;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    display: block;
+    width: 200px;
+    text-decoration: none;
+    margin: 20px auto;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    width: 200px;
+    height: 10px;
+    background-color: #B0C4B1;
+    border-radius: 7px;
+}
